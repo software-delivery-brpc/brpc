@@ -1,4 +1,4 @@
-If you meet any problem or request a new feature, you're welcome to [create an issue](https://github.com/brpc/brpc/issues/new/choose).
+If you meet any problems or request a new feature, you're welcome to [create an issue](https://github.com/brpc/brpc/issues/new/choose).
 
 If you can solve any of [the issues](https://github.com/brpc/brpc/issues), you're welcome to send the PR to us.
 
